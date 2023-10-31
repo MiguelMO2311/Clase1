@@ -1,4 +1,10 @@
-//  Reto 2. Tema 5 Funciones. Ok
+//  Reto 2. Tema 5 Funciones. 
+function sum(op1, op2, op3) {
+    result = op1 - op2 - op3
+}
+sum(4, 2)
+console.log('sum');
+
 
 
 function subs(op1, op2) {
